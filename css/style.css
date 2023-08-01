@@ -64,15 +64,27 @@ body {
     cursor: pointer;
     padding: 15px;
     border-radius: 4px;
+    background-color: #26a9e0;
+    color: #fff;
 }
 
 @media (min-width: 992px) {
     .mute {
-    bottom: 20px;
+    bottom: 110px;
     }
 }
 
 .bg-new {
     background-image: url(../img/Pink\ Minimalist\ Happy\ Birthday\ Card\ \(1\).png);
+    background-size: cover;
+}
+
+.bg-sky {
+    background-image: url(../img/pexels-magda-ehlers-636353\ \(1\)\ \(1\).jpg);
+    background-size: cover;
+}
+
+.bg-ski {
+    background-image: url(../img/pexels-magda-ehlers-636353\ \(1\).jpg);
     background-size: cover;
 }
